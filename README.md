@@ -1,3 +1,4 @@
 # ola-mundo2
- novato s222
- novato no pythonp
+ novato no python
+
+theme:minimal tittle:dudizark description: kerwhg

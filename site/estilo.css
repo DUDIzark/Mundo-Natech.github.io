@@ -78,13 +78,13 @@ body{
     top: 5.90%;
 
     left: 28%;
-    left: 50%;
+    
 
 
     transform: translate(-50%, -50%);
-    background:  rgba(234, 232, 236, 0);;
+    background:  rgba(114, 111, 118, 0.708);;
     height: 40px;
-    padding: 10px   ;
+    padding: 0px   ;
     display: flex;
     justify-content: space-between;
     align-items: center;

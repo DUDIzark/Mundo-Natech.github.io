@@ -76,8 +76,10 @@ body{
         
     position: absolute;
     top: 5.90%;
+
     left: 28%;
     left: 50%;
+
 
     transform: translate(-50%, -50%);
     background:  rgba(234, 232, 236, 0);;
